@@ -4,14 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "docker:build": "docker build -t boos/users .",
+    "docker:run": "docker run boos/users"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.25.0",
-    "express": "^4.17.2",
-    "nodemon": "^2.0.15"
+    "axios": "0.25.0",
+    "express": "4.17.2",
+    "nodemon": "2.0.15"
   }
 }
