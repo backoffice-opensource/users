@@ -2,9 +2,10 @@
 
 ## Motivation
 ## Features
+1. [Create User](#create-user)
 
-### 1. Create User
-Request
+### Create User
+Request 
 
 ```bash
 curl --location --request POST 'http://localhost:31212/users' \
@@ -20,6 +21,4 @@ curl --location --request POST 'http://localhost:31212/users' \
 ```
 
 Communication Diagram
-<div style="background-color:#fff;padding:20px">
-  <img src="https://raw.githubusercontent.com/backoffice-opensource/users/feature/dockerize/docs/create_users.drawio.svg" />
-</div>
+<img src="https://raw.githubusercontent.com/backoffice-opensource/users/feature/dockerize/docs/create_users.drawio.svg" />
