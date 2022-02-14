@@ -21,4 +21,4 @@ curl --location --request POST 'http://localhost:31212/users' \
 ```
 
 Communication Diagram
-<img src="https://raw.githubusercontent.com/backoffice-opensource/users/feature/dockerize/docs/create_users.drawio.svg" />
+<img src="https://user-images.githubusercontent.com/43233080/153966143-c9e87b26-124e-4f11-b027-3a8abe6fc79b.png" />
