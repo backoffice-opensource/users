@@ -21,4 +21,4 @@ curl --location --request POST 'http://localhost:31212/users' \
 ```
 
 Communication Diagram
-<img src="https://user-images.githubusercontent.com/43233080/153966143-c9e87b26-124e-4f11-b027-3a8abe6fc79b.png" />
+<img width="949" alt="image" src="https://user-images.githubusercontent.com/43233080/153966221-c2fc6a75-3a34-478e-9c0f-dc881a399772.png">
